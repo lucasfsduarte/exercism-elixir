@@ -1,6 +1,6 @@
 defmodule Lasagna do
   @moduledoc """
-  Exercice: https://exercism.org/tracks/elixir/exercises/lasagna
+  Exercise: https://exercism.org/tracks/elixir/exercises/lasagna
   """
 
   @spec expected_minutes_in_oven() :: integer
