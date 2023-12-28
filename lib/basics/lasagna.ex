@@ -3,7 +3,7 @@ defmodule Lasagna do
   Exercise: https://exercism.org/tracks/elixir/exercises/lasagna
   """
 
-  @spec expected_minutes_in_oven() :: integer
+  @spec expected_minutes_in_oven :: integer
   def expected_minutes_in_oven, do: 40
 
   @spec remaining_minutes_in_oven(integer) :: integer
