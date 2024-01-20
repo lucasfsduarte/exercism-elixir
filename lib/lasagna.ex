@@ -1,7 +1,7 @@
 defmodule Lasagna do
-  @moduledoc """
-  Exercise: https://exercism.org/tracks/elixir/exercises/lasagna
-  """
+    @moduledoc """
+    Exercise: https://exercism.org/tracks/elixir/exercises/lasagna
+    """
 
   def expected_minutes_in_oven, do: 40
 
